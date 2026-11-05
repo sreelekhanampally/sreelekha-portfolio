@@ -1,0 +1,155 @@
+{
+  "reviewedOn": "2026-11-04",
+  "repositories": {
+    "electricity-demand-forecasting": {
+      "treeSha": "814e092e34643b70864c195dc179df2e6d1a13d8",
+      "codeLinks": [
+        {
+          "label": "Chronological data split",
+          "path": "ml-service/src/evaluation/splitter.py",
+          "url": "https://github.com/sreelekhanampally/electricity-demand-forecasting/blob/main/ml-service/src/evaluation/splitter.py"
+        },
+        {
+          "label": "Leakage checks",
+          "path": "ml-service/tests/test_leakage.py",
+          "url": "https://github.com/sreelekhanampally/electricity-demand-forecasting/blob/main/ml-service/tests/test_leakage.py"
+        }
+      ]
+    },
+    "animeverse-ai": {
+      "treeSha": "5637e48d5cbe8bad14c0fe87a63e45442370cdf6",
+      "codeLinks": [
+        {
+          "label": "Semantic search",
+          "path": "backend/src/services/semanticSearch.service.js",
+          "url": "https://github.com/sreelekhanampally/animeverse-ai/blob/main/backend/src/services/semanticSearch.service.js"
+        },
+        {
+          "label": "Authentication middleware",
+          "path": "backend/src/middlewares/auth.middleware.js",
+          "url": "https://github.com/sreelekhanampally/animeverse-ai/blob/main/backend/src/middlewares/auth.middleware.js"
+        }
+      ]
+    },
+    "growthpilot-ai": {
+      "treeSha": "285c479ca00a9ef59eafb9517578867aa26bd15a",
+      "codeLinks": [
+        {
+          "label": "Customer feature pipeline",
+          "path": "src/growthpilot/features/builder.py",
+          "url": "https://github.com/sreelekhanampally/growthpilot-ai/blob/main/src/growthpilot/features/builder.py"
+        },
+        {
+          "label": "Recommendation logic",
+          "path": "src/growthpilot/recommendations/engine.py",
+          "url": "https://github.com/sreelekhanampally/growthpilot-ai/blob/main/src/growthpilot/recommendations/engine.py"
+        }
+      ]
+    },
+    "gpu-cfd-solvers": {
+      "treeSha": "75689378fa09c31f18961a6cb0e78d24136cf4ad",
+      "codeLinks": [
+        {
+          "label": "GPU cavity notebook",
+          "path": "driven_cavity_flow/driven_cavity_flow_with_gpu.ipynb",
+          "url": "https://github.com/sreelekhanampally/gpu-cfd-solvers/blob/main/driven_cavity_flow/driven_cavity_flow_with_gpu.ipynb"
+        },
+        {
+          "label": "CPU comparison notebook",
+          "path": "driven_cavity_flow/driven_cavity_flow_with_cpu..ipynb",
+          "url": "https://github.com/sreelekhanampally/gpu-cfd-solvers/blob/main/driven_cavity_flow/driven_cavity_flow_with_cpu..ipynb"
+        }
+      ]
+    },
+    "exorank": {
+      "treeSha": "84edfa5c5a74f6dd976ffb75abd4116bf3e59dd3",
+      "codeLinks": [
+        {
+          "label": "Training and grouped splits",
+          "path": "services/ml/train.py",
+          "url": "https://github.com/sreelekhanampally/exorank/blob/main/services/ml/train.py"
+        },
+        {
+          "label": "Inference API tests",
+          "path": "services/ml/test_app.py",
+          "url": "https://github.com/sreelekhanampally/exorank/blob/main/services/ml/test_app.py"
+        }
+      ]
+    },
+    "contextops-enterprise-agent-platform": {
+      "treeSha": "268a0e89afa9cd20d55caa1b66c8c4f9ea04e286",
+      "codeLinks": [
+        {
+          "label": "SQL validation",
+          "path": "backend/app/services/sql_agent.py",
+          "url": "https://github.com/sreelekhanampally/contextops-enterprise-agent-platform/blob/main/backend/app/services/sql_agent.py"
+        },
+        {
+          "label": "Action approval",
+          "path": "backend/app/services/actions.py",
+          "url": "https://github.com/sreelekhanampally/contextops-enterprise-agent-platform/blob/main/backend/app/services/actions.py"
+        }
+      ]
+    },
+    "text-emotion-classifier-nlp": {
+      "treeSha": "5132506f4e2d48683f7d45e01de4a89b9356331f",
+      "codeLinks": [
+        {
+          "label": "Training notebook",
+          "path": "notebooks/training.ipynb",
+          "url": "https://github.com/sreelekhanampally/text-emotion-classifier-nlp/blob/main/notebooks/training.ipynb"
+        },
+        {
+          "label": "Inference pipeline",
+          "path": "ai-service/app/inference/service.py",
+          "url": "https://github.com/sreelekhanampally/text-emotion-classifier-nlp/blob/main/ai-service/app/inference/service.py"
+        }
+      ]
+    },
+    "VestileFit": {
+      "treeSha": "77fa2fbaae7655c3ff7b225e661f15ac6e874c84",
+      "codeLinks": [
+        {
+          "label": "Catalog validation",
+          "path": "ai_service/app/catalog/catalog_store.py",
+          "url": "https://github.com/sreelekhanampally/VestileFit/blob/main/ai_service/app/catalog/catalog_store.py"
+        },
+        {
+          "label": "Recommendation service",
+          "path": "recommender/recommendation_service.py",
+          "url": "https://github.com/sreelekhanampally/VestileFit/blob/main/recommender/recommendation_service.py"
+        }
+      ]
+    },
+    "linear-semi-infinite-program-with-gpu": {
+      "treeSha": "328dcc8e20085968297ea69d039c9b18da17128e",
+      "codeLinks": [
+        {
+          "label": "Solver and feasibility checks",
+          "path": "RNN_semi_infinite_paper_with_plots.py",
+          "url": "https://github.com/sreelekhanampally/linear-semi-infinite-program-with-gpu/blob/main/RNN_semi_infinite_paper_with_plots.py"
+        },
+        {
+          "label": "Experiment notebook",
+          "path": "RNN_semi_infinite.ipynb",
+          "url": "https://github.com/sreelekhanampally/linear-semi-infinite-program-with-gpu/blob/main/RNN_semi_infinite.ipynb"
+        }
+      ]
+    },
+    "artist-marketplace": {
+      "treeSha": "9b70ab9dfe64d483d630df9951ec47874deef15b",
+      "codeLinks": [
+        {
+          "label": "Authentication routes",
+          "path": "backend/routes/auth.js",
+          "url": "https://github.com/sreelekhanampally/artist-marketplace/blob/main/backend/routes/auth.js"
+        },
+        {
+          "label": "Cart routes",
+          "path": "backend/routes/cart.js",
+          "url": "https://github.com/sreelekhanampally/artist-marketplace/blob/main/backend/routes/cart.js"
+        }
+      ]
+    }
+  }
+}
