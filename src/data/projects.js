@@ -239,7 +239,7 @@ export const projects = [
     metric: "0.9748 ROC-AUC",
     metricContext: "XGBoost on 1,467 held-out labelled objects.",
     repo: "https://github.com/sreelekhanampally/exorank",
-    live: https://exorank-nsreelekha.onrender.com,
+    live: "https://exorank-nsreelekha.onrender.com/",
     problem:
       "A ranked candidate list is more useful when the measurements, model comparison and uncertainty can be checked alongside it.",
     built: [
